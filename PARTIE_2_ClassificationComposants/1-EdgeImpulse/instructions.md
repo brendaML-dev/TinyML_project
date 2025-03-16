@@ -52,7 +52,7 @@ Ajustez les hyperparamètres si nécessaire pour améliorer l’exactitude.
 3. Télécharger et extraire la bibliothèque Edge Impulse  
 4. Copier les fichiers dans :  
    PARTIE_2_ClassificationComposants/2-ArduinoCamera/
-5. Ouvrir nano_ble33_sense_camera.ino dans l'IDE Arduino  
+5. Ouvrir arduino_camera_classification.ino dans l'IDE Arduino  
 6. Téléverser le programme sur l’Arduino Nano 33 BLE Sense  
 
 
