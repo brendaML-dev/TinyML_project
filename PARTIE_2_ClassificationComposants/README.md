@@ -1,5 +1,5 @@
 # Partie 2 : Classification d'Objets avec Edge Impulse et Arduino
-Dans cette deuxième partie, l’objectif est de créer un système d'analyse d'images permettant de reconnaître différents composants électroniques (par exemple, LED, résistances, condensateurs, etc.), capturés par la caméra OV7670 connectée à un Arduino Nano 33 BLE Sense. Les résultats seront envoyés à Node-RED via Bluetooth pour effectuer un comptage et une gestion des objets détectés.
+L’objectif est de créer un système d'analyse d'images permettant de reconnaître différents composants électroniques (par exemple, LED, résistances, condensateurs, etc.), capturés par la caméra OV7670 connectée à un Arduino Nano 33 BLE Sense. Les résultats seront envoyés à Node-RED via Bluetooth pour effectuer un comptage et une gestion des objets détectés.
 
 # 2.1. Étapes principales
 
